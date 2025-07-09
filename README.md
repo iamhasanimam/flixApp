@@ -5,6 +5,6 @@ This app show cases the use case of
 - Accessing and implementing third party API's (TMDB), https://developer.themoviedb.org/docs/getting-started
 - Redirection based upon switch case
 - Swiper JS functionality
-- Search functionality from the use of API 
+- Search functionality and display of movies from API call 
 
 #### Access the App through index.html
